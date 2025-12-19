@@ -16,7 +16,8 @@
 - 📫 How to reach me **iamtanishsonii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"alt="coding"width"50"align="left">
+<!--<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"alt="coding"width"50"align="left" --> 
+
 <p align="left">
 <a href="https://twitter.com/iamtanishsonii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtanishsonii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamtanishsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamtanishsoni" height="30" width="40" /></a>
