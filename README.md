@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanish Soni</h1>
-<h3 align="center">A passionate Ai-Ml developer from India</h3>
+<h3 align="center">BCA Final Year Student Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtanishsonii&label=Profile%20views&color=0e75b6&style=flat" alt="iamtanishsonii" /> </p>
 
