@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtanishsonii&label=Profile%20views&color=0e75b6&style=flat" alt="iamtanishsonii" /> </p>
 
-- 🔭 I’m currently working on **Attendance System**
+- 🔭 I’m working on **Strong problem abilities m**
 
-- 🌱 I’m currently learning **Openshift**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **cloud native Projects**
+- 👯 I’m looking to collaborate on **New Web Desining ideas**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **Programming concepts**
 
-- 💬 Ask me about **DecOps**
+- 💬 Ask me about **Computer Science Concepts**
 
 - 📫 How to reach me **iamtanishsonii@gmail.com**
 
