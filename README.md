@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtanishsonii&label=Profile%20views&color=0e75b6&style=flat" alt="iamtanishsonii" /> </p>
 
-- 🔭 I’m working on **Strong problem abilities m**
+- 🔭 I’m working on **Strong problem abilities**
 
 - 🌱 I’m currently learning **Web Development**
 
